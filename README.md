@@ -1,0 +1,1 @@
+# study-nuxt-shopping-api
